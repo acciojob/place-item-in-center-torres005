@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.tom{
+	display:flex
+	justify-content:center
+	align-item:center;
+}
